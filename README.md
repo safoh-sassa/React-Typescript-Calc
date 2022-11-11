@@ -1,3 +1,3 @@
 # React-Typescript-Calc
-Live view:
-https://react-typescript-calcuator.azurewebsites.net/
+
+<a href="https://react-typescript-calcuator.azurewebsites.net/"  target="_blank">Live View<a/>
